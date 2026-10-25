@@ -41,3 +41,5 @@ Lastly, an application of these concepts to Galton–Watson branching processes 
 ## Report
 
 [Read the full report (PDF)](report.pdf)
+
+**Disclaimer:** This text was partially AI generated
